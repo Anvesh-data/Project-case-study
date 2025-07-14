@@ -44,13 +44,6 @@ The objective was to plan and execute the opening of a new restaurant location w
 
 ## 📥 Download Key Files
 
-- [Case Study Summary (PDF)](./CaseStudySummary_YumYum.pdf)
-- [Gantt Chart (Excel)](./GanttChart_YumYum.xlsx)
-- [Budget Sheet (Excel)](./Budget_YumYum.xlsx)
-- [Risk Register (Excel)](./RiskRegister_YumYum.xlsx)
-- [Communication Plan (Excel)](./CommunicationPlan_YumYum.xlsx)
-- [Project Charter (Word)](./ProjectCharter_YumYum.docx)
-
 ---
 
 ## 🎯 Role & Contributions
